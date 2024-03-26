@@ -1,8 +1,6 @@
 # Analysis of scATAC-seq and scRNA-seq Data 🧬
 
-## Welcome to the Analysis of scATAC-seq and scRNA-seq Data repository! 🔬
-
-In this project, I used the scATAC-seq and scRNA-seq tutorials for the analysis, which can be found here:
+This repository was created for educational purposes focusing on the analysis of next-generation sequencing (NGS) techniques. It provides workflows for processing and analyzing scATAC-seq and scRNA-seq data.
 
 
 scATAC-seq: https://stuartlab.org/signac/articles/pbmc_vignette.html
